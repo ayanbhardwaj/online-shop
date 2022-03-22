@@ -1,0 +1,57 @@
+/* Header */
+
+.card-img {
+  height: 450px;
+}
+
+.intro {
+  padding-top: 200px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.greeting {
+  font-size: 2.5rem;
+  font-family: 'Montserrat, sans-serif';
+  font-weight: bolder;
+}
+
+/* main content index.html */
+.card-item {
+  margin:20px;
+  height: 450px;
+}
+
+.img-card-item {
+  height: 300px;
+  width: 90%
+}
+
+/* main content index.html */
+.img-item-detail {
+  height: 400px;
+}
+
+/* link tag all files */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: Orange;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Footer */
+
+.footer {
+  margin-top: 50px;
+}
+
+.footer-container {
+  text-align: center;
+  padding: 50px;
+}
+
